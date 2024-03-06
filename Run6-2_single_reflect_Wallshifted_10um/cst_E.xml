@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmissionScan>
+	<Nfs_ver>1.0</Nfs_ver>
+	<Filename>cst_E.xml</Filename>
+	<File_ver>1</File_ver>
+	<Probe>
+		<Field>Ex</Field>
+	</Probe>
+	<Data>
+		<Coordinates>xyz</Coordinates>
+		<Frequencies>
+			<List>0.5E+12</List>
+		</Frequencies>
+		<Measurement>
+			<Unit>V/m</Unit>
+			<Format>ri</Format>
+			<Data_files>
+				E_new.txt
+			</Data_files>
+		</Measurement>
+	</Data>
+</EmissionScan>
